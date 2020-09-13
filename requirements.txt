@@ -105,13 +105,13 @@ pymongo==3.9.0
 pyOpenSSL==19.1.0
 pyparsing==2.4.5
 PyPDF2==1.26.0
-pypiwin32==219
+pypiwin32==223
 pyrsistent==0.15.6
 pyspark==2.4.4
 python-dateutil==2.8.1
 python-pptx==0.6.18
 pytz==2019.3
-pywin32==220
+pywin32==223
 pywin32-ctypes==0.2.0
 pywinpty==0.5.7
 PyYAML==5.2
