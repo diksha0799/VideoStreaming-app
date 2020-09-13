@@ -25,5 +25,5 @@ sqlparse==0.2.4
 urllib3==1.25.10
 virtualenv==16.7.9
 whitenoise==5.2.0
-cv2=4.4.0.42
+cv2==4.4.0.42
 
