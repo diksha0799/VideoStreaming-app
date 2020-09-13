@@ -9,7 +9,6 @@ django-filter==2.3.0
 django-rest-framework-mongoengine==3.4.1
 django-storages==1.10
 djongo==1.3.3
-dlib==19.19.0
 dnspython==2.0.0
 docutils==0.15.2
 gunicorn==20.0.4
