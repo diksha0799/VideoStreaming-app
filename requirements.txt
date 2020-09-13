@@ -1,4 +1,5 @@
 asgiref==3.2.10
+boto3==1.11.8
 backcall==0.1.0
 botocore==1.15.1
 Django==3.0.5
@@ -23,6 +24,6 @@ six==1.12.0
 sqlparse==0.2.4
 urllib3==1.25.10
 virtualenv==16.7.9
-
+whitenoise==5.2.0
 
 
