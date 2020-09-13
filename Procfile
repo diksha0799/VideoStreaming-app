@@ -1,1 +1,1 @@
-web: gunicorn videoStream.wsgi --log-file-
+web: gunicorn videoStream.wsgi 
